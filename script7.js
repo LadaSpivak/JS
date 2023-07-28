@@ -316,6 +316,5 @@ console.log(listWithClass);
 const menuItemsByTagName = document.querySelectorAll("li");
 console.log(menuItemsByTagName);
 
-const menuItemsByClass = document.querySelectorAll(".menu-item");
-console.log(menuItemsByClass);
+
 
