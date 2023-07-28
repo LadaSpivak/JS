@@ -319,6 +319,3 @@ console.log(menuItemsByTagName);
 const menuItemsByClass = document.querySelectorAll(".menu-item");
 console.log(menuItemsByClass);
 
-const firstMenuItem = document.querySelector(".menu-item");
-firstMenuItem.style.color = 'tomato';
-console.log(firstMenuItem);
