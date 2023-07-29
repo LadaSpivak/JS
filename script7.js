@@ -305,17 +305,3 @@ console.log(calсulateAverage(1, 2, 3, 4)); // 2.5
 console.log(calсulateAverage(14, 8, 2)); // 8
 console.log(calсulateAverage(27, 43, 2, 8, 36)); // 23.2
 
-const listWithId = document.querySelector('#menu');
-listWithId.style.textTransform = 'uppercase';
-listWithId.style.fontSize = '24px';
-console.log(listWithId);
-
-const listWithClass = document.querySelector('.menu');
-console.log(listWithClass);
-
-const menuItemsByTagName = document.querySelectorAll("li");
-console.log(menuItemsByTagName);
-
-
-
-test
