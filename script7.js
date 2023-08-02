@@ -301,7 +301,13 @@
 //   return total / args.length;
 // }
 
-console.log(calсulateAverage(1, 2, 3, 4)); // 2.5
-console.log(calсulateAverage(14, 8, 2)); // 8
-console.log(calсulateAverage(27, 43, 2, 8, 36)); // 23.2
-
+// console.log(calсulateAverage(1, 2, 3, 4)); // 2.5
+// console.log(calсulateAverage(14, 8, 2)); // 8
+// console.log(calсulateAverage(27, 43, 2, 8, 36)); // 23.2
+// console.log(calсulateAverage(1, 2, 3, 4)); // 2.5
+// console.log(calсulateAverage(14, 8, 2)); // 8
+// console.log(calсulateAverage(27, 43, 2, 8, 36)); // 23.2
+// console.log(calсulateAverage(1, 2, 3, 4)); // 2.5
+// console.log(calсulateAverage(14, 8, 2)); // 8
+// console.log(calсulateAverage(27, 43, 2, 8, 36)); // 23.2
+// TextTrackList
